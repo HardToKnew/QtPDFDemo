@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/icons8-about-96.png</file>
+        <file>../images/icons8-front-sorting-96.png</file>
+        <file>../images/icons8-help-96.png</file>
+        <file>../images/icons8-lock-100.png</file>
+        <file>../images/icons8-padlock-100.png</file>
+        <file>../images/icons8-pdf-48.png</file>
+        <file>../images/icons8-pdf-96.png</file>
+        <file>../images/icons8-settings-96.png</file>
+    </qresource>
+</RCC>
